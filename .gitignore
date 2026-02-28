@@ -1,0 +1,18 @@
+# .gitignore
+
+# Editor / IDE
+.vscode/
+**/.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / outputs
+logs/
+out/
