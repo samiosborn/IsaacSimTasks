@@ -1,4 +1,4 @@
-# pick_place_bimanual/run.ps1
+# run.ps1
 param(
   [Parameter(Mandatory=$true, Position=0)]
   [string]$Script,
